@@ -1473,7 +1473,7 @@ a {
   padding: 0;
 }
 .cid-tcjH3Tkyof {
-  background-image: url("../../../assets/images/background3.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1269.jpg");
 }
 .cid-tcjH3Tkyof .mbr-fallback-image.disabled {
   display: none;
@@ -1538,5 +1538,8 @@ a {
 }
 .cid-tcjH3Tkyof .icons-menu .soc-item .mbr-iconfont:hover {
   background-color: #ffffff;
+  color: #000000;
+}
+.cid-tcjH3Tkyof H3 {
   color: #000000;
 }
